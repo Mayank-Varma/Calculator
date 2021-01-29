@@ -1,2 +1,2 @@
 # Calculator
- Dual Theme Calculator Created Using HTML,CSS,and JAVASCRIPT
+ Dual  Theme Calculartor Created Using HTML,CSS and JAVASCRIPT
